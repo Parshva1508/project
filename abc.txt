@@ -1,0 +1,16 @@
+asjdajbfd
+
+
+git init
+git add filename
+git commit -m "message"
+git log --oneline
+git checkout <number> file name
+
+
+to login to github
+ git remote add origin https://github.com/Shardulsss/practice.git
+
+to upload on github
+ git push -u origin master
+ 
